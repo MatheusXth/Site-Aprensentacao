@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    margin: 0;
+    background-color: blueviolet;
+    font-family: arial;    
+}
+
+.left{
+    background-color: blueviolet;
+    padding-right: 20px;
+}
+
+.right{
+    border-radius: 10px;
+    background-color: dimgray; 
+    padding: 20px 100px 170px 30px;
+    margin: 10px 10px 100px 10px;
+}
+
+h1{
+    border: 50px; color: rgb(7, 7, 7);
+    font-weight: bold;
+}
+
+img{
+    height: 500px; width: 350px;
+    border-radius: 0 50px 0 50px;
+    margin: 10px 0 0 20px;
+}
+
+.a{
+    color: black;
+}
+
+.d{
+    color: black;
+    text-align: justify;
+
+}
